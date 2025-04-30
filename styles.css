@@ -106,18 +106,18 @@ nav a {
 main {
   display: flex;
   flex-direction: column;
-  gap: 6rem;
+  gap: 5rem;
 }
 
 section {
   display: flex;
   flex-direction: column;
-  gap: 4rem;
+  gap: 1.5rem;
 }
 
 section h2,
 .experience-card h3 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 500;
 }
 
