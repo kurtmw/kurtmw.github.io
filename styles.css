@@ -69,7 +69,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-shrink: 0; /* Don't allow it to shrink in flex layouts */
+  flex-shrink: 0;
 }
 
 .profile-image-container img {
