@@ -255,7 +255,8 @@ section h2,
   place-items: center;
   aspect-ratio: 16 / 9;
   order: 2;
-  border-radius: 0.25rem;
+  border-radius: 0.50rem;
+  
 }
 
 .project-image-container img {
